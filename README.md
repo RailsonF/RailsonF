@@ -1,9 +1,8 @@
 # 🌐 Hello, I'm Railson!
 
-Desenvolvedor Front-end Júnior 🚀  
-Evoluindo para Desenvolvedor Full Stack ⚡  
-Atualmente trabalhando como Front-end 💻  
-Estudando Back-end com **Python + FastAPI**, arquitetura e boas práticas.
+- Desenvolvedor Full-Stack Júnior   
+- Atualmente trabalhando Full-Stack 💻  
+- Estudando Back-end com **NodeJs**, arquitetura e boas práticas.
 
 📍 Brasil 🇧🇷  
 
