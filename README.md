@@ -40,17 +40,27 @@ Atualmente atuo no desenvolvimento de sistemas web e APIs, estudando continuamen
 ## Back-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=fastapi" />
-  <img src="https://skillicons.dev/icons?i=flask" />
 </p>
 
 ## Banco de Dados
 
 <p>
+  <img src="https://skillicons.dev/icons?i=postgresql" />
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=sqlite" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+  <img src="https://skillicons.dev/icons?i=githubactions" />
+  <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 ## Ferramentas
@@ -69,12 +79,10 @@ Atualmente atuo no desenvolvimento de sistemas web e APIs, estudando continuamen
 
 - Node.js
 - TypeScript
-- React Native
 - Arquitetura de Software
 - APIs REST
 - Redes de Computadores
 - Inteligência Artificial para Desenvolvimento
-
 ---
 
 # 🧠 Soft Skills
